@@ -6,5 +6,8 @@ public class Bag{
     public Bag(){
         weight = 0;
         maxWeight = 2000;
+
+     hello!
+     
     }
 }
